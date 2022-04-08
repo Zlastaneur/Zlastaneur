@@ -1,6 +1,7 @@
 ## Salut, je suis un developpeur frontend junior <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 -   🌱 Passionné de développement web et autodidacte
+-   🏆 Diplôme de développeur web (Bac + 2)
 -   🥅 Objectifs:
     -   Trouver un emploi dans le développement web
     -   En apprendre toujours plus
