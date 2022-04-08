@@ -46,7 +46,7 @@
 
 <!-- PROJECT:START -->
 
--   [Création de mon portfolio ](stanley-defer.fr)
+-   [Création de mon portfolio ](https://stanley-defer.fr)
 -   [Création d'un réseau social d'entreprise ](https://github.com/Zlastaneur/StanleyDefer_7_04072021)
 -   [Construction d'une API](https://github.com/Zlastaneur/StanleyDefer_6_01062021)
 -   [Création d'un site e-commerce (JS + API) ](https://zlastaneur.github.io/StanleyDefer_5_16032021/)
