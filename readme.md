@@ -1,6 +1,6 @@
 ## Stanley Defer - Développeur Web <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
--   Mon site web : https://stanleydefer.fr/
+-   Mon site web : [Stanleydefer.fr](https://stanleydefer.fr/)
 -   Diplôme de développeur web (Bac + 2)
 -   Passionné de sport, nouvelles technologies, jeux vidéos/de société/de rôle
 
