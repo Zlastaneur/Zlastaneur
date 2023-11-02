@@ -1,19 +1,16 @@
-## Salut, je suis un developpeur frontend junior <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+## Stanley Defer - Développeur Web <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
--   🌱 Passionné de développement web et autodidacte
--   🏆 Diplôme de développeur web (Bac + 2)
--   🥅 Objectifs:
-    -   Trouver un emploi dans le développement web
-    -   En apprendre toujours plus
--   ⚡ Passion : Les nouvelles technologies, le sport, les jeux vidéos/de société/de rôle
+-   Mon site web : stanleydefer.fr
+-   Diplôme de développeur web (Bac + 2)
+-   Passionné de sport, nouvelles technologies, jeux vidéos/de société/de rôle
 
-### Rentrons en contact
+### Me contacter
 
 [<img align="left" alt="Stanley_Defer | Email" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />](Stanley.defer@hotmail.fr) [<img align="left" alt="Stanley_Defer | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/stanley-defer/)
 
 <br />
 
-### Languages et outils
+### Mes Languages et outils
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
@@ -42,7 +39,7 @@
 <br />
 <br />
 
-### ⚡ Derniers projets
+###  Derniers projets
 
 <!-- PROJECT:START -->
 
